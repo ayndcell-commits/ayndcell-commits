@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**ayndcell-commits/ayndcell-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+I'm documenting my 90-days internship journey as a **Junior Data Analyst** at **Edusoft Center**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Data Analytics** is the process of analyzing large datasets to uncover hidden patterns, trends, and insights that support decision-making.
+
+Currently, I am sharing my learning journey in Data Analytics as part of my commitment to continuously developing my skills.
+
+---
+
+## 💻 Technologies Used
+
+- 📊 Google Spreadsheet  
+- 🔧 Google Apps Script  
+- 📈 Looker Studio  
+- 🐍 Python  
+- 🗄️ MySQL  
+
+---
+
+## 📌 Projects
+- 📋 Telegram Attendance Bot → Google Sheets  
+- 📊 Attendance Dashboard (Looker Studio)  
+- 🧑‍🎓 Student Management System  
+
+---
+
+## 📫 Contact Me
+- GitHub:  https://github.com/ayndcell-commits
+- Medium:   https://medium.com/@ayndcell
+
