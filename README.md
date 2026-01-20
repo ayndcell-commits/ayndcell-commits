@@ -31,3 +31,13 @@ Currently, I am sharing my learning journey in Data Analytics as part of my comm
 - GitHub:  https://github.com/ayndcell-commits
 - Medium:   https://medium.com/@ayndcell
 
+  ## 🗓️ Timeline
+
+| Week | Lessons / Tasks Done 🎯 | Reference Links 🔗 |
+|------|-------------------------|--------------------|
+| Week 1 | |
+| Week 2 |  |
+
+---
+
+
